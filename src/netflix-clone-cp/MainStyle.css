@@ -1,0 +1,16 @@
+* {
+    margin: 0;
+}
+
+.main {
+    background-color: #111;
+    /* overflow-x: hidden; */
+    /* color: white; */
+}
+
+@media (max-width:420px){
+    .main {
+        overflow-x: hidden;
+    }
+}
+
